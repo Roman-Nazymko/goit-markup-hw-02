@@ -100,7 +100,7 @@
     }
     .button-order:hover,
     .button-order:focus {
-        color: var(--ocean-color);
+        background-color: var(--ocean-color);
     }
     .benefits-section {
     }
@@ -110,9 +110,9 @@
         line-height: 1.2;
         color: var(--navy-blue-color);
     }
-    .main-benefits-list {
+    .benefits-list {
     }
-    .main-benefits-item {
+    .benefits-item {
     }
     .benefits-text {
     }
